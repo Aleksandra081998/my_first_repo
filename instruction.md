@@ -16,3 +16,6 @@
 * List three
 
 ## Картинки
+Это апельсин
+
+![orange](orange.jpg)
